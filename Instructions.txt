@@ -1,0 +1,112 @@
+                                      Instructions
+
+I. Getting Started
+     - Creating a character
+          The first step in playing Winter Wars is creating
+          a character. Selecting the “New Game” button from
+          the Menu Bar on the bottom of the window will
+          bring the user to a new screen that will greet the 
+          user and ask for a name. Any entry longer than 8
+          characters will be shortened to fit into the
+          character display.
+          
+          Next, the user will be asked to select a character
+          type. Character types are built around the 3 main
+          stats useful to play Winter Wars.
+          1. Health:   Determines how much damage a player
+                       can take before being knocked out
+          2. Strength: Determines how much power your
+                       attacks have
+          3. Speed:    Determines how quickly a Player moves
+                       in relation to the other combatants.
+                       (A Player with higher speed will
+                       always move before a slower Player.
+                       Players with equal speeds will be
+                       decided by chance.
+
+          There are 4 types of characters to choose from:
+          1. Strong:   More power but slower to act 
+                       Health: 2, Strength: 3, Speed: 1
+          2. Fast:     Quicker to act but easy to beat
+                       Health: 1, Strength: 2, Speed: 3
+          3. Sturdy:   Can take more damage but hit softly
+                       Health: 3, Strength: 1, Speed: 2
+          4. Balanced: Equally balances the 3 stats
+                       Health: 2, Strength: 2, Speed: 2 
+
+          Lastly in creating your character, the display
+          will show the character information and ask for
+          confirmation to proceed.
+
+     - Choosing teams
+          After creating a character, the user must decide
+          how many enemies will be faced from 1 - 3.
+          Enemies will be generated at random between
+          the 4 player types so matches will differ from
+          each other.
+
+          Likewise, the user will pick from 0 - 2 random
+          allies to be on their team.
+
+          Once the teams are set, the battle will commence.
+
+     - Saving/Loading
+          Saving a game is performed in-game by clicking
+          the “Save” button on the eastern border of the 
+          screen. The current game state will be suspended
+          for later play.
+
+          Loading a saved game is performed by clicking the
+          “Load Game” button on the Menu Bar on the 
+          bottom of the window. This will open a new screen
+          that lists the save files present. The user can
+          type in the name of the file they which to load
+          and then click the “Submit” button. This will
+          resume a previous game save.
+
+II. Battle Actions
+     - Moving
+          In game, a player can either ADVANCE or 
+          RETREAT by clicking the “Move” button.
+          In the forward position, there is a better chance
+          of successfully attacking your enemies but
+          also a greater chance to be hit in return.
+
+     - Rolling
+          In order to attack an enemy, a player must first
+          roll a snowball and add it to their ammo store.
+          This is done by clicking the “Roll” button. Up to
+          3 snowballs can be held at one time.
+
+     - Throwing
+          Having ammo, a player can then attack their
+          enemies by clicking the “Throw” button and then
+          clicking on the intended target. Targets that are
+          farther away have a greater chance to miss. If the
+          attack is successful, the target will lose health
+          points equal to the attacker’s strength stat.
+
+     - Building
+          One way for a player to protect themselves is to
+          build up a wall of snow by clicking the “Build
+          Wall” button. This will add a wall object in front
+          of the player’s position. If there is already a
+          wall in front of the player, the wall’s health
+          will be increased by 1 up to 3 health points. Once
+          built, walls will take damage instead of the
+          players behind them.
+
+III. Winning/Losing/Exiting
+      - Winning/Losing
+          Players will perform battle actions until either
+          all enemies are defeated or the user is defeated.
+          Completing one of these conditions will end the
+          game and present a screen with the corresponding
+          result.
+
+      - Exiting Game
+          To leave the game, at any time, users may click
+          the “Exit” button on the Menu Bar on the bottom of
+          the window. Otherwise, a user may click the “Quit”
+          button during a battle to exit out.
+
